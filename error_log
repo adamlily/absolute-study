@@ -1,0 +1,12 @@
+[13-Jul-2019 10:24:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method Quiz_model::getQuizDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Quiz.php on line 96
+[13-Jul-2019 10:51:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/taskm9lp/public_html/quiz/application/controllers/Student.php on line 70
+[13-Jul-2019 10:55:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/taskm9lp/public_html/quiz/application/controllers/Student.php on line 144
+[13-Jul-2019 10:56:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/taskm9lp/public_html/quiz/application/controllers/Student.php on line 166
+[13-Jul-2019 10:56:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/taskm9lp/public_html/quiz/application/controllers/Student.php on line 166
+[15-Jul-2019 10:51:08 Asia/Kolkata] PHP Fatal error:  Call to undefined method Quiz_model::getQuizDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Quiz.php on line 96
+[15-Jul-2019 11:11:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method Quiz_model::getQuizDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Quiz.php on line 96
+[15-Jul-2019 11:12:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method Quiz_model::getQuizDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Quiz.php on line 96
+[15-Jul-2019 15:06:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method Quiz_model::getQuizDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Quiz.php on line 96
+[17-Jul-2019 16:58:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/taskm9lp/public_html/quiz/application/config/routes.php on line 96
+[05-Sep-2019 13:05:36 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Master_model::getSectorDetails() in /home/taskm9lp/public_html/quiz/application/models/Master_model.php on line 91
+[05-Sep-2019 13:13:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Master_model::getSubjectDetails() in /home/taskm9lp/public_html/quiz/application/controllers/Ajax.php on line 36
